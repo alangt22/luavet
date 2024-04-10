@@ -477,11 +477,23 @@ footer {
         margin: 6px auto;
         transition-duration: 0.5s;
     }
+    .content{
+        width: 100%;
+        height: 10%;
+    }
+
+    .content img{
+        margin-top: -7rem;
+    }
+
+    .content h3{
+        margin-top: -7rem;
+    }
 
     .menu-toggle {
         width: 30px;
         height: 30px;
-        margin-top: 10rem;
+        margin-top: -0.2rem;
     }
 
     .btn button {
@@ -508,7 +520,7 @@ footer {
         height: 200px;
         margin-left: 2rem;
     }
-    .first-section {
+    .first-section { 
         width: 100%;
         height: 85vh;
     }
